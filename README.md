@@ -13,7 +13,7 @@
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 - Student Management System
 
 ---
